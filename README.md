@@ -1,2 +1,2 @@
-# courser-test
-Courser test repository
+# project-test
+project test repository
